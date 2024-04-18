@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded",function(){
 
-    let dice = localStorage.getItem("dice")
+    let d4 = localStorage.getItem("results")
 
-    console.log(dice)
+    console.log(d4)
 
 })
